@@ -1,0 +1,1 @@
+// voca contract 기준으로 타입 재정의 export
